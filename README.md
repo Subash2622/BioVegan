@@ -50,7 +50,7 @@ Interested in contributing to this project? Thanks so much for your interest! We
 <!-- CONTACT -->
 <h2>Contact with me</h2>
 
-Subrat Kumar Sahu
+Subash Chandra Sahoo
 
 - [instagram](https://www.instagram.com/smartylish/)
 - [LinkedIn](https://www.linkedin.com/in/subash-chandra-sahoo-bb0365205/)
