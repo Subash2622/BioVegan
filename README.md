@@ -21,7 +21,7 @@
 
 <h1>🌟 Live link</h1>
   
-  [See live project here](https://biovegan-ecommerce-website.netlify.app/)
+  [See live project here](https://stirring-wisp-aa7ca3.netlify.app/)
   
 <h1>👨‍💻 Tech stack</h1>
 
